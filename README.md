@@ -1,4 +1,4 @@
-# Emotion_Classification
+# Emotion Classification
 Performed the task of Emotion Detection on the emotion classification dataset containing around 600,000 text samples labeled with six different types of emotions. We have implemented various machine learning models for performing Natural Language Processing on the given text samples. The dataset is available [here](https://www.dropbox.com/s/607ptdakxuh5i4s/merged_training.pkl).
 
 ## _Models Used_
